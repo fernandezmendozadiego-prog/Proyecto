@@ -40,10 +40,12 @@ Estructura del Repositorio
   
   •	Archivo RETROSPECTIVA.md: Evaluación final del equipo.
 
+<img width="935" height="732" alt="photo_2026-08-30_12-37-06" src="https://github.com/user-attachments/assets/52f8d514-af76-4068-8a67-96be538f110a" />
+
 Integrantes del Equipo
-  •
+  •Cerda Silva Eduardo
   
-  •
+  •Fernández Mendoza Diego
   
   •
 
