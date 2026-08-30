@@ -46,6 +46,6 @@ Integrantes del Equipo
   
   •Fernández Mendoza Diego
   
-  •
+  •Manuel Garzia Montes
 
 <img width="935" height="732" alt="photo_2026-08-30_12-37-06" src="https://github.com/user-attachments/assets/f467282a-d47a-4338-a59d-faf0d38af850" />
