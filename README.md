@@ -18,8 +18,6 @@ Historias de Usuario (User Stories)
 
 Metodología de Trabajo
 
- <img width="683" height="537" alt="Screenshot 2025-12-12 220611" src="https://github.com/user-attachments/assets/19a1f5c9-84aa-49de-b6c0-67637c8efe8d" />
-
  Trabajaremos con una metodología ágil apoyándonos en un tablero Kanban dentro de GitHub Projects. Elegimos este enfoque porque nos permite organizar las tareas de forma sencilla, repartir el trabajo entre los   integrantes y ajustar las entregas según los tiempos de la clase.
 
 Desarrollo y Tecnologías
