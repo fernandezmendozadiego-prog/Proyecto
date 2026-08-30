@@ -1,7 +1,7 @@
 Clone de facebook
 
 Descripción del Proyecto 
- Este proyecto consiste en desarrollar una versión reducida de Instagram enfocada en subir fotos y ver publicaciones. Dado el tiempo limite de la práctica, el equipo acordó centrarse en las funciones esenciales:   registro de usuario, subida de imágenes y visualización del feed principal.
+ Este proyecto consiste en desarrollar una versión reducida de Instagram enfocada en subir fotos y ver publicaciones. Dado el tiempo limite de la práctica, el equipo acordó centrarse en las funciones     esenciales:   registro de usuario, subida de imágenes y visualización del feed principal.
 
 Historias de Usuario (User Stories)
   •	Como usuario, quiero crear una cuenta para tener mi perfil en la aplicación.
