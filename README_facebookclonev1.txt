@@ -1,0 +1,1 @@
+El documento requiere XAMPP instalado para la validación de las cuentas en la base de datos sql.
