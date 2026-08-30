@@ -6,15 +6,15 @@ Descripción del Proyecto
 
 Historias de Usuario (User Stories)
 
-  •	Como usuario, quiero crear una cuenta para tener mi perfil en la aplicación.
+   •	Como usuario, quiero crear una cuenta para tener mi perfil en la aplicación.
  
-  •	Como usuario, quiero subir fotos con una breve descripción para compartirlas.
+   •	Como usuario, quiero subir fotos con una breve descripción para compartirlas.
   
-  •	Como usuario, quiero ver una lista con las fotos más recientes subidas por otros usuarios.
+   •	Como usuario, quiero ver una lista con las fotos más recientes subidas por otros usuarios.
   
-  •	Como usuario, quiero dar me gusta a las fotos que me parezcan interesantes.
+   •	Como usuario, quiero dar me gusta a las fotos que me parezcan interesantes.
   
-  •	Como usuario, quiero dejar comentarios en las publicaciones.
+   •	Como usuario, quiero dejar comentarios en las publicaciones.
 
 Metodología de Trabajo
 
