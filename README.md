@@ -7,9 +7,13 @@ Descripción del Proyecto
 Historias de Usuario (User Stories)
 
   •	Como usuario, quiero crear una cuenta para tener mi perfil en la aplicación.
+ 
   •	Como usuario, quiero subir fotos con una breve descripción para compartirlas.
+  
   •	Como usuario, quiero ver una lista con las fotos más recientes subidas por otros usuarios.
+  
   •	Como usuario, quiero dar me gusta a las fotos que me parezcan interesantes.
+  
   •	Como usuario, quiero dejar comentarios en las publicaciones.
 
 Metodología de Trabajo
@@ -19,19 +23,27 @@ Metodología de Trabajo
 Desarrollo y Tecnologías
 
   •	Frontend y Lógica: HTML para la interfaz visual y Python para la estructura de la aplicación.
+  
   •	Backend y Base de Datos: Una base de datos SQL simple para guardar usuarios, imágenes y comentarios.
+  
   •	Diagramas y Modelado: draw.io para los esquemas del sistema.
+  
   •	Gestión del Proyecto: GitHub Projects e Issues para el control de tareas.
 
 Estructura del Repositorio
 
   •	Carpeta docs: Diagramas del proyecto.
+  
   •	Carpeta raíz: Código fuente de la aplicación.
+  
   •	Archivo README.md: Documentación principal.
+  
   •	Archivo RETROSPECTIVA.md: Evaluación final del equipo.
 
 Integrantes del Equipo
   •
+  
   •
+  
   •
 
